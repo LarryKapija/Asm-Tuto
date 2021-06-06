@@ -1,4 +1,4 @@
-;;A program who will calculate, for this instance, 2+2
+;;A simple stack program(3,8,4)
 
 section .data
     digit db 0,10
